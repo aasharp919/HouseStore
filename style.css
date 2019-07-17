@@ -1,0 +1,103 @@
+.jumbotron.text-center {
+    background-image: url(img/top-hero.jpg);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.jumbotron.text-center .display-4.text-center {
+    color: #FFFFFF;
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+    font-style: italic;
+}
+.jumbotron.text-center .lead.text-center {
+    color: #FFFFFF;
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+}
+.jumbotron.text-center .lead.text-center .btn.btn-primary.btn-lg {
+    color: #000000;
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+    font-style: italic;
+}
+.jumbotron.footer .display-4.text-center {
+    color: #FFFFFF;
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+    font-style: italic;
+}
+.jumbotron.footer .lead.text-center {
+    color: #FFFFFF;
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+}
+.jumbotron.footer .lead.text-center .btn.btn-primary.btn-lg {
+    color: #000000;
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+    font-style: italic;
+}
+.jumbotron.text-center .lead.text-center .btn.btn-primary.btn-lg {
+    background-color: #F67907;
+}
+.jumbotron.footer .lead.text-center .btn.btn-primary.btn-lg {
+    background-color: #F67A07;
+}
+.text-center {
+}
+.jumbotron.footer {
+    background-image: url(img/footer.jpg);
+}
+.container-fluid .row .col-xl-4.col-1 {
+    background-image: url(img/red.jpg);
+    max-width: 334px;
+    padding-bottom: 312px;
+    border-radius: 348px;
+    margin-left: 46px;
+}
+.container-fluid .row .col-xl-4.col-2 {
+    background-image: url(img/green.jpg);
+    max-width: 334px;
+    padding-bottom: 312px;
+    border-radius: 348px;
+    margin-left: 82px;
+}
+.container-fluid .row .col-xl-4.col-3 {
+    background-image: url(img/blue.jpg);
+    max-width: 334px;
+    padding-bottom: 312px;
+    border-radius: 348px;
+    margin-left: 130px;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 {
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+}
+.text-center {
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+}
+.row .col-xl-4.text-center h3 {
+    font-style: italic;
+}
+.text-center h2 {
+}
+.text-centerh2 {
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+    font-style: italic;
+    text-align: center;
+}
+.row .col-xl-4.text-center .col-1 {
+    color: #AB1215;
+    font-family: Georgia, "Georgia Bold", "Georgia Bold Italic", "Georgia Italic";
+    font-style: italic;
+    text-align: center;
+    margin-left: 144px;
+    margin-top: 40px;
+}
+.row .col-xl-4.text-center .col-2 {
+    color: #0F7410;
+    margin-left: 130px;
+    margin-top: 40px;
+}
+.row .col-xl-4.text-center .col-3 {
+    color: #1A20B8;
+    margin-left: 148px;
+    margin-top: 40px;
+}
+.text-centerh2 {
+}
